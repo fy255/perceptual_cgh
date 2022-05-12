@@ -9,7 +9,7 @@
 [Andrzej Kaczorowski](http://www.drandrzejka.com/),
 [Tim D. Wilkinson](http://www-g.eng.cam.ac.uk/CMMPE/Team/TimWilkinson.html)
 
-[Paper in submission] | [[Dataset]](https://drive.google.com/drive/folders/1n2AsozJ0Z1_pMrvjVmeEDdQGHN2X8vn2?usp=sharing)
+[Paper](https://www.nature.com/articles/s41598-022-11373-8) | [[Dataset]](https://drive.google.com/drive/folders/1n2AsozJ0Z1_pMrvjVmeEDdQGHN2X8vn2?usp=sharing)
 
 This repository contains the scripts associated with the paper "Perceptually-Motivated Loss Functions for
 Computer-Generated Holographic Displays".
